@@ -1,7 +1,7 @@
 # Maven-MCP
 A Maven repo for my clients
 
-```maven
+```Maven
  <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
